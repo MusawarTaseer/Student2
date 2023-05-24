@@ -3,7 +3,7 @@ package student2;
 /**
  * This class +++ Insert class description here +++
  *
- * @author Musawar Taseer
+ * @author Master Musawar Taseer
  */
 public class Student2 {
     private String name;
