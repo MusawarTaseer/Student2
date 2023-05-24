@@ -1,3 +1,5 @@
+package student2;
+
 /**
  * This class +++ Insert class description here +++
  *
@@ -6,7 +8,7 @@
 public class StudentList {
     public static void main(String[] args)
     {
-       Student2 [] studentList = new Student[1];//change size before running
+       Student2 [] studentList = new Student2[1];//change size before running
        Student2 s1 = new Student2();
        s1.setName("Liz Dancy");
        studentList[0]=s1;
