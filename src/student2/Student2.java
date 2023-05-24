@@ -6,6 +6,7 @@ package student2;
  * @author Musawar Taseer
  */
 public class Student2 {
+    private String name2;
     private String name;
 
     /**
